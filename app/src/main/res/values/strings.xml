@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ML App</string>
+    <string name="labelTextView">LABEL</string>
+    <string name="pickImageButton">Pick Image</string>
+    <string name="pickTextButton">Pick Text</string>
+    <string name="pictureButton">Take a picture</string>
+</resources>

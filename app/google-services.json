@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645764941463",
+    "project_id": "ml-app-56b5e",
+    "storage_bucket": "ml-app-56b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645764941463:android:0ea27e243735c28aa18bd2",
+        "android_client_info": {
+          "package_name": "com.example.mlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645764941463-e1htvhlo1ndi51vpeccgle4sr25ummu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwPvheKVOvabdTfuwS_HgQ66TdflbEUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645764941463-e1htvhlo1ndi51vpeccgle4sr25ummu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
